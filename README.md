@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Harshit Chandrol</h1>
-<h3 align="center">Graduate student pursuing Master of science in Business Analytics [Big Data]</h3>
+<h1 align="center">Hi, I'm Harshit Chandrol</h1>
+<h3 align="center">Graduate student pursuing Master of Science in Business Analytics [Big Data]</h3>
 
-- 🌱 I’m currently learning **Machine Learning & AWS Data Pipelines** and looking for Data Analyst, Data Engineer and Data Scientist Oppotunities. 
+- 🌱 I’m currently learning **Machine Learning & AWS Data Pipelines** and looking for Data Analyst, Data Engineer, and Data Scientist opportunities. 
 
-- 💬 Ask me about **Basketball, Interior Designing, how AI is changing programming**
+💬: Ask me about **Basketball, Interior Designing, and how AI is changing computer computer programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
