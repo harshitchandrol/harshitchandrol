@@ -4,7 +4,7 @@
 - 🌱 I’m currently investing my time learning Databricks Data Engineering.
 - Based on my experience and education, I am actively looking for Data Analyst, Data Engineer, BI Engineer, and Data Scientist opportunities. 
 
-💬: Ask me about **Basketball, Interior Designing, and how AI is changing computer computer programming**
+💬: Ask me about **Basketball, Interior Designing, and Data Mining**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
